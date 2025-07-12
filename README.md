@@ -8,7 +8,7 @@ A cutting-edge React/Next.js frontend for the ReWear sustainable fashion platfor
 
 - **Seamless User Experience**: Intuitive navigation and smooth interactions
 - **Responsive Design**: Perfect experience across all devices and screen sizes
-- **Real-time Features**: Live notifications and instant updates
+- **Real-time Features**: Live and instant email updates
 - **Performance Optimization**: Fast loading and smooth animations
 - **Accessibility**: Inclusive design for all users
 - **Modern UI/UX**: Beautiful, sustainable-themed interface
